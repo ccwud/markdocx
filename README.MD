@@ -1,5 +1,8 @@
 # markdocx
 
+## 项目来源 [greyovo/markdocx](https://github.com/greyovo/markdocx)
+- 在原有的项目基础上支持了 转换目录下的所有的md文件
+
 将你的 markdown 文件转换为 MS Word（.docx）/ Convert your Markdown files to MS Word (.docx).
 
 🚧 正在开发中 / Under development
@@ -111,8 +114,7 @@ h1: # 段落类型名称，可取的值见上表
 ## 暂时无法实现
 - LaTeX
 - 脚注
-## 项目来源 [greyovo/markdocx](https://github.com/greyovo/markdocx)
-- 在原有的项目基础上支持了 转换目录下的所有的md文件
+
 ## 感谢开源项目
 
 - [python-docx](https://python-docx.readthedocs.io)
