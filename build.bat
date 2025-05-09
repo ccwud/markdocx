@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --add-data "./src/config;config/"  "src/markdocx.py"

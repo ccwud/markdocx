@@ -111,7 +111,8 @@ h1: # 段落类型名称，可取的值见上表
 ## 暂时无法实现
 - LaTeX
 - 脚注
-
+## 项目来源(markdocx)[https://github.com/greyovo/markdocx] 
+- 在原有的项目基础上支持了 转换目录下的所有的md文件
 ## 感谢开源项目
 
 - [python-docx](https://python-docx.readthedocs.io)
